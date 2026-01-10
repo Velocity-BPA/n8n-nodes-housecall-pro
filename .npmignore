@@ -1,0 +1,33 @@
+# Source files
+nodes/
+credentials/
+test/
+scripts/
+
+# Config files
+tsconfig.json
+.eslintrc.js
+.prettierrc
+gulpfile.js
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+.nyc_output/
+jest.config.js
+
+# Development
+*.log
+*.tsbuildinfo
+.env*
+.git*
+.tmp/
